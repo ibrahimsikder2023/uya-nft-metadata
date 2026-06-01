@@ -1,0 +1,15 @@
+{
+  "name": "UYA NFT #1",
+  "description": "Official UYA NFT",
+  "image": "https://via.placeholder.com/800x800.png?text=UYA+NFT",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "UYA"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Sepolia"
+    }
+  ]
+}
